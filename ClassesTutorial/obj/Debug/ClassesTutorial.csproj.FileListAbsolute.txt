@@ -1,0 +1,6 @@
+c:\users\funky\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+c:\users\funky\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe
+c:\users\funky\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.pdb
+c:\users\funky\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.csprojResolveAssemblyReference.cache
+c:\users\funky\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.exe
+c:\users\funky\documents\visual studio 2015\Projects\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.pdb
